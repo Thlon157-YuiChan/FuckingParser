@@ -1,2 +1,7 @@
 # FuckingParser
-A PHP-powered Markdown Parser
+## 概要
+PHP上で動作するHTML↔Markdownの相互変換が出来るパーサです。1ファイルだけで構成されています。
+
+Copilotと3か月格闘して作ったものなので、クオリティは低いと思われます。
+
+この作品には [157-License](https://github.com/Thlon157-YuiChan/157-License) 個別条項㋐ が適用されます。なお、「2. 使用者が、作品に一切の改造を行っていない状態で共有することを禁止する。」の条項に関しては、適用されません。
